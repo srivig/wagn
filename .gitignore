@@ -1,0 +1,16 @@
+.idea/
+.jhw-cache
+.rvmrc
+.tm_properties
+coverage
+/doc
+log/*
+pkg
+wagn*gem
+card*gem
+decko*gem
+*.project
+*.sqlite3
+*.DS_Store
+*.swp
+test_work/*
